@@ -1,2 +1,12 @@
-# Financial-Planning-Analysis-Budget-vs-Actual-Variance-Analysis
-This project simulates the work of a Financial Planning &amp; Analysis (FP&amp;A) analyst by analyzing Budget vs Actual financial performance of a company.   The analysis identifies revenue trends, expense variances, and profitability insights to support financial decision-making.
+Objectives
+• Compare Budget vs Actual financial performance
+• Perform variance analysis for revenue, expenses, and profit
+• Identify financial trends over a 12-month period
+• Build an interactive financial dashboard
+Tools Used
+• Microsoft Excel
+• Power BI
+• Revenue Variance Analysis
+• Expense Variance Analysis
+• Profit Trend Analysis
+• Financial Performance Reporting
